@@ -1,0 +1,31 @@
+{
+  "name": "@claude-code-guide/config-generator",
+  "version": "1.0.0",
+  "description": "Interactive tool to generate optimized CLAUDE.md and .clauderc files",
+  "main": "generate-claude-config.js",
+  "bin": {
+    "generate-claude-config": "./generate-claude-config.js",
+    "claude-config": "./generate-claude-config.js"
+  },
+  "scripts": {
+    "start": "node generate-claude-config.js"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "config",
+    "generator",
+    "ai",
+    "development-tools"
+  ],
+  "author": "Claude Code Guide Contributors",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gbourgogne4000K/claude-code-all-tips.git",
+    "directory": "tools/config-generator"
+  }
+}

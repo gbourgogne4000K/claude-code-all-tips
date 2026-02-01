@@ -104,12 +104,19 @@ Bienvenue dans le guide complet de Claude Code, l'outil CLI officiel d'Anthropic
     - Agents personnalisés (JSON configs)
     - Handoff documents templates
 
-11. **[Exemples pratiques](docs/fr/exemples/README.md)** 🎯
+11. **[Outils & Utilitaires](docs/fr/outils/README.md)** 🛠️
+    - **Générateur de configuration** : outil interactif pour créer CLAUDE.md et .clauderc
+    - 3 méthodes d'utilisation (Node.js, NPM global, Skill)
+    - Questions guidées en 7 catégories
+    - Fichiers optimisés pour votre projet
+    - Personnalisation post-génération
+
+12. **[Exemples pratiques](docs/fr/exemples/README.md)** 🎯
     - Cas d'usage courants (debugging, refactoring, testing)
     - Exemples de code complets
     - Best practices en action
 
-12. **[Dépannage](docs/fr/troubleshooting/README.md)** 🔧
+13. **[Dépannage](docs/fr/troubleshooting/README.md)** 🔧
     - Problèmes courants (Node.js, permissions, PATH)
     - Messages d'erreur décryptés
     - FAQ complète
@@ -198,12 +205,19 @@ Welcome to the complete Claude Code guide, Anthropic's official CLI tool for int
     - Custom agents (JSON configs)
     - Handoff document templates
 
-11. **[Practical Examples](docs/en/exemples/README.md)** 🎯
+11. **[Tools & Utilities](docs/en/outils/README.md)** 🛠️
+    - **Configuration Generator**: interactive tool to create CLAUDE.md and .clauderc
+    - 3 usage methods (Node.js, global NPM, Skill)
+    - Guided questions in 7 categories
+    - Optimized files for your project
+    - Post-generation customization
+
+12. **[Practical Examples](docs/en/exemples/README.md)** 🎯
     - Common use cases (debugging, refactoring, testing)
     - Complete code examples
     - Best practices in action
 
-12. **[Troubleshooting](docs/en/troubleshooting/README.md)** 🔧
+13. **[Troubleshooting](docs/en/troubleshooting/README.md)** 🔧
     - Common issues (Node.js, permissions, PATH)
     - Error messages decoded
     - Complete FAQ
@@ -283,14 +297,15 @@ cd claude-code-all-tips
 
 | Metric | Count |
 |--------|-------|
-| **Total Lines** | 6,500+ |
+| **Total Lines** | 7,000+ |
 | **Code Snippets** | 100+ |
 | **Bash Scripts** | 40+ |
 | **Best Practices** | 50 |
 | **Advanced Patterns** | 8 |
 | **Included Skills** | 53 |
+| **Interactive Tools** | 1 |
 | **Languages** | 2 (FR/EN) |
-| **Sections** | 12 |
+| **Sections** | 13 |
 
 ---
 
